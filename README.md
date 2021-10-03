@@ -18,9 +18,7 @@ Der Gedanke dahinter ist; Den Geist von Allatra und die Kreativen Gesellschaft u
 
 
 #### Screenshots
-<img src="https://user-images.githubusercontent.com/91397163/135765661-9e01360f-2c85-4942-91ef-c4f70c35d046.jpg" data-canonical-src="https://user-images.githubusercontent.com/91397163/135765661-9e01360f-2c85-4942-91ef-c4f70c35d046.jpg" width="200" height="400" />
-
-<img src="https://user-images.githubusercontent.com/91397163/135765664-29f0c4e9-83ae-4d7b-98fb-ddc420b6c3c6.jpg" data-canonical-src="https://user-images.githubusercontent.com/91397163/135765664-29f0c4e9-83ae-4d7b-98fb-ddc420b6c3c6.jpg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/91397163/135765661-9e01360f-2c85-4942-91ef-c4f70c35d046.jpg" data-canonical-src="https://user-images.githubusercontent.com/91397163/135765661-9e01360f-2c85-4942-91ef-c4f70c35d046.jpg" width="200" height="400" /><img src="https://user-images.githubusercontent.com/91397163/135765664-29f0c4e9-83ae-4d7b-98fb-ddc420b6c3c6.jpg" data-canonical-src="https://user-images.githubusercontent.com/91397163/135765664-29f0c4e9-83ae-4d7b-98fb-ddc420b6c3c6.jpg" width="200" height="400" />
 
 <img src="https://user-images.githubusercontent.com/91397163/135765666-c20154c0-6bb4-4e27-897b-f20bfc3a136a.jpg" data-canonical-src="https://user-images.githubusercontent.com/91397163/135765666-c20154c0-6bb4-4e27-897b-f20bfc3a136a.jpg" width="200" height="400" />
 
