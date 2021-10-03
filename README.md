@@ -18,14 +18,15 @@ Der Gedanke dahinter ist; Den Geist von Allatra und die Kreativen Gesellschaft u
 
 
 ## Screenshots
+![screenshot](https://user-images.githubusercontent.com/91397163/135765661-9e01360f-2c85-4942-91ef-c4f70c35d046.jpg)
+![screenshot1](https://user-images.githubusercontent.com/91397163/135765664-29f0c4e9-83ae-4d7b-98fb-ddc420b6c3c6.jpg)
+![screenshot2](https://user-images.githubusercontent.com/91397163/135765666-c20154c0-6bb4-4e27-897b-f20bfc3a136a.jpg)
+![screenshot3](https://user-images.githubusercontent.com/91397163/135765667-6a4598c6-3daa-468f-8865-bd78c9ee909d.jpg)
+![screenshot4](https://user-images.githubusercontent.com/91397163/135765670-1b5d459f-361f-4a7a-8a27-c5cc75d8e525.jpg)
+![screenshot5](https://user-images.githubusercontent.com/91397163/135765672-ad143613-fdeb-4343-87fb-d6547fd00959.jpg)
+![screenshot6](https://user-images.githubusercontent.com/91397163/135765674-659115bc-b651-4eae-b1aa-5aa685813784.jpg)
 
-![Screenshot](screenshot.png)
-![Screenshot](screenshot1.png)
-![Screenshot](screenshot2.png)
-![Screenshot](screenshot3.png)
-![Screenshot](screenshot4.png)
-![Screenshot](screenshot5.png)
-![Screenshot](screenshot6.png)
+
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
