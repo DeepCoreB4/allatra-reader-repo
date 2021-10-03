@@ -1,3 +1,4 @@
+// @dart=2.9
 /// Represents information about an audio source.
 class AudioMetadata {
   /// The name of the song/show/recording.
