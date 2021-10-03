@@ -18,7 +18,8 @@ Der Gedanke dahinter ist; Den Geist von Allatra und die Kreativen Gesellschaft u
 
 
 ## Screenshots
-![screenshot](https://user-images.githubusercontent.com/91397163/135765661-9e01360f-2c85-4942-91ef-c4f70c35d046.jpg | width=100 )
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/91397163/135765661-9e01360f-2c85-4942-91ef-c4f70c35d046.jpg" width="200" height="400" />
+
 ![screenshot1](https://user-images.githubusercontent.com/91397163/135765664-29f0c4e9-83ae-4d7b-98fb-ddc420b6c3c6.jpg)
 ![screenshot2](https://user-images.githubusercontent.com/91397163/135765666-c20154c0-6bb4-4e27-897b-f20bfc3a136a.jpg)
 ![screenshot3](https://user-images.githubusercontent.com/91397163/135765667-6a4598c6-3daa-468f-8865-bd78c9ee909d.jpg)
