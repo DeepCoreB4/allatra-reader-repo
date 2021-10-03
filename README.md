@@ -1,6 +1,21 @@
-# flutter_pdf_viewer_example
+# AllatRa PDF Reader / Media Center APP
 
-Demonstrates how to use the flutter_pdf_viewer plugin.
+#Vorstellung der App:
+
+Allatra Reader ist eine App mit dem Fokus die Bücher von Anastasia Novich vorzustellen.
+Der Gedanke dahinter ist; Den Geist von Allatra und die Kreativen Gesellschaft und ihre Hintergründe besser zu Verstehen
+
+#Altar Reader bietet 4 Grundfunktionen:
+1.	Allatra Unity = Vorstellung der Kreativen Gesellschaft (Original PDF von Allatra.org  in English)
+
+2.	Buch1 PDF (1x B&P von Anastasia Novich) 
+
+3.	Buch2 PDF (1x Allatra – Das Buch in EN)
+
+4.	Media Center (Unterteil in 2 Sektionen)
+    1.	3 Hörbücher  
+    2.	Video Player (Video Playliste mit dem Titel E Spiritual = 7Videos)
+
 
 ## Getting Started
 
