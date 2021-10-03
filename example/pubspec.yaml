@@ -1,0 +1,29 @@
+name: advance_pdf_viewer_example
+description: Allatra PDF Reader.
+publish_to: "none"
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  advance_pdf_viewer:
+    path: ../
+  cupertino_icons: any
+  flutter:
+    sdk: flutter
+  google_fonts: any
+  just_audio: 0.9.10
+  youtube_player_flutter: any
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  better_player: ^0.0.62
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sample.pdf
+    - assets/sample2.pdf
+    - assets/images/
+    - assets/audio/
