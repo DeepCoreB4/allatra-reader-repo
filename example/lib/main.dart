@@ -1,3 +1,4 @@
+// @dart=2.9
 import 'package:advance_pdf_viewer_example/defaults/defaults.dart';
 import 'package:advance_pdf_viewer_example/screens/player_screen.dart';
 import 'package:flutter/material.dart';
