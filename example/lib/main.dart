@@ -1,6 +1,5 @@
 import 'package:advance_pdf_viewer_example/defaults/defaults.dart';
 import 'package:advance_pdf_viewer_example/screens/player_screen.dart';
-import 'package:advance_pdf_viewer_example/screens/video_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:advance_pdf_viewer/advance_pdf_viewer.dart';
 import 'package:google_fonts/google_fonts.dart';
