@@ -22,3 +22,8 @@ Der Gedanke dahinter ist; Den Geist von Allatra und die Kreativen Gesellschaft u
 
 ##### Sourcecode:
 Die App Basiert auf der Flutter Framework und ist Kompatible auf allen IOs/Android Geräten.
+Jedoch momentan nur für Android erhältich, da ich kein iphone besitze!!!
+
+###### App Download for Android
+https://firebasestorage.googleapis.com/v0/b/deepcore-blendit4app.appspot.com/o/allatra-media-center_V0.0.1b.apk?alt=media&token=9ae1d061-da54-40b9-90c1-8a21320aae79
+
